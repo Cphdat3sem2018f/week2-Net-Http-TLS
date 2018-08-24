@@ -14,8 +14,8 @@ This week will provide you with the necessary knowledge of general network terms
 #### Day 4- StudyPoint Exercise-2
 
 ## Plan + redings for each class
-- [A - class](#)
-- [B - class](#)
+- [A - class](https://github.com/Cphdat3sem2018f/week2-Net-Http-TLS/tree/master/A)
+- [B - class](https://github.com/Cphdat3sem2018f/week2-Net-Http-TLS/tree/master/B)
 
 
 ### Resources: 
