@@ -19,5 +19,8 @@ This week will provide you with the necessary knowledge of general network terms
 
 
 ### Resources: 
-
+[Exercises Day-1 (network+HTTP](https://docs.google.com/document/d/12oNatE_vXUsOc1-PWvl3ilD7adfZ1EOnC66S8825qF8/edit?usp=sharing)
+[Exercises Day-2 (HTTP)](https://docs.google.com/document/d/12oNatE_vXUsOc1-PWvl3ilD7adfZ1EOnC66S8825qF8/edit?usp=sharing)
+Exercises Day-3
+Exam preparation Day 4
   
