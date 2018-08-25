@@ -16,4 +16,7 @@ At first, it could seem like there is an awful lot to read for today, but most o
 - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 
 # Day-3 Thuersday 30th.
-[What are certificates](https://www.youtube.com/watch?v=LRMBZhdFjDI&t=25s)
+- [Wikipedia article about Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
+- [5 Common Server Setups For Your Web Application](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+- [What are certificates (video)](https://www.youtube.com/watch?v=LRMBZhdFjDI&t=25s)
+- [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
