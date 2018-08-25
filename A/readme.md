@@ -10,7 +10,7 @@ At first, it could seem like there is an awful lot to read for today, but most o
 - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 # Day-2 Wednesday 29th
 - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) (same as day-1)
-- [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) Read the intro section, and just skim the LONG list of specific headers
+- [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) Read the intro section, and just skim the loooong list of specific headers
 - [HTTP Request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) Read the detailed link for GET, PUT, POST and DELETE
 - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) Just skim, but make sure you understand the ranges: 1xx, 2xx, 3xx, 4xx and 5 xx
 - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
