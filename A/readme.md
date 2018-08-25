@@ -16,3 +16,4 @@ At first, it could seem like there is an awful lot to read for today, but most o
 - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 
 # Day-3 Thuersday 30th.
+[What are certificates](https://www.youtube.com/watch?v=LRMBZhdFjDI&t=25s)
