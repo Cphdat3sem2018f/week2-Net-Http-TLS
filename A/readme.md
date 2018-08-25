@@ -7,9 +7,11 @@ At first, it could seem like there is an awful lot to read for today, but most o
 - [DNS](https://computer.howstuffworks.com/dns.htm)
 - [DHCP](https://kb.iu.edu/d/adov)
 
+- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+
 ### Slides
 TBD
-- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+
 # Day-2 Wednesday 29th
 - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) (same as day-1)
 - [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) Read the intro section, and just skim the loooong list of specific headers
