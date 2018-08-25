@@ -5,7 +5,7 @@ At first, it could seem like there is an awful lot to read for today, but most o
 - [Ports] (https://www.lifewire.com/port-numbers-on-computer-networks-817939)
 - [Well-Known TCP Port Numbers (skim only)](https://www.webopedia.com/quick_ref/portnumbers.asp)
 - [DNS](https://computer.howstuffworks.com/dns.htm)
-- [DHCP](DHCP: https://kb.iu.edu/d/adov)
+- [DHCP](https://kb.iu.edu/d/adov)
 
 - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 # Day-2
