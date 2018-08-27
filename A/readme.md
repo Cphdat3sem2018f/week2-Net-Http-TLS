@@ -10,7 +10,7 @@ At first, it could seem like there is an awful lot to read for today, but most o
 - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
 ### Slides
-TBD
+[Network-intro](https://docs.google.com/presentation/d/1GgwJZRzc4gvRkGs7qSzVlp4c0fvAxvQkSWmAFzqfifA/edit?usp=sharing)
 
 # Day-2 Wednesday 29th
 - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) (same as day-1)
