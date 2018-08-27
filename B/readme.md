@@ -28,4 +28,4 @@ SERVER
 - [Wikipedia article about Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
 - [Server architectures](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 - [Certificates (video)](https://www.youtube.com/watch?v=LRMBZhdFjDI&t=25s)
-- [HTTPS?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+- [HTTPS](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
