@@ -3,7 +3,7 @@
 [Network Notes]()
 
 # Day-1 Thuesday 28th
-INTERNET
+NETWORK
 - [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 - [IP addresses](https://en.wikipedia.org/wiki/IP_address)
 - [Ports](https://www.lifewire.com/port-numbers-on-computer-networks-817939)
