@@ -11,16 +11,15 @@ This week will provide you with the necessary knowledge of general network terms
 
 #### Day 3 - Server architectures,
 
-#### Day 4- StudyPoint Exercise-2
+#### Day 4 - StudyPoint Exercise-2
 
-## Plan + redings for each class
+## Plan + Readings for each class
 - [A - class](https://github.com/Cphdat3sem2018f/week2-Net-Http-TLS/tree/master/A)
 - [B - class](https://github.com/Cphdat3sem2018f/week2-Net-Http-TLS/tree/master/B)
 
-
 ### Resources: 
-- [Exercises Day-1 (network+HTTP](https://docs.google.com/document/d/12oNatE_vXUsOc1-PWvl3ilD7adfZ1EOnC66S8825qF8/edit?usp=sharing)
-- [Exercises Day-2 (HTTP)](https://docs.google.com/document/d/12oNatE_vXUsOc1-PWvl3ilD7adfZ1EOnC66S8825qF8/edit?usp=sharing)
-- Exercises Day-3 Setup your droplet with a Reverse Proxy and TLS as explained [here](https://docs.google.com/document/d/1bDjWf_Y39p9lLMRxUD1a_dg2DwwCYPhk0w2ryQFcnJw/edit?usp=sharing)
-- Exam preparation Day 4 (TBD)
+- [Day-1 Exercises (Network)](https://docs.google.com/document/d/12oNatE_vXUsOc1-PWvl3ilD7adfZ1EOnC66S8825qF8/edit?usp=sharing)
+- [Day-2 Exercises (HTTP)](https://docs.google.com/document/d/12oNatE_vXUsOc1-PWvl3ilD7adfZ1EOnC66S8825qF8/edit?usp=sharing)
+- [Day-3 Exercises (Setup your droplet with a Reverse Proxy and TLS)](https://docs.google.com/document/d/1bDjWf_Y39p9lLMRxUD1a_dg2DwwCYPhk0w2ryQFcnJw/edit?usp=sharing)
+- [Day-4 Exam preparation SP2]()
   
