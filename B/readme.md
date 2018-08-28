@@ -1,6 +1,6 @@
-[Network Plan]()
-[Network Slides]()
-[Network Notes]()
+[Network Plan](Network_Plan.pdf)
+[Network Slides](Network_Slides.pdf)
+[Network Notes](Network_Notes.pdf)
 
 # Day-1 Thuesday 28th
 NETWORK
