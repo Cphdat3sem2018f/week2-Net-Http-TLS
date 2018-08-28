@@ -21,4 +21,4 @@ This week will provide you with the necessary knowledge of general network terms
 - [Day-1 Exercises (Network)](https://docs.google.com/document/d/12oNatE_vXUsOc1-PWvl3ilD7adfZ1EOnC66S8825qF8/edit?usp=sharing)
 - [Day-2 Exercises (HTTP)](https://docs.google.com/document/d/12oNatE_vXUsOc1-PWvl3ilD7adfZ1EOnC66S8825qF8/edit?usp=sharing)
 - [Day-3 Exercises (Setup your droplet with a Reverse Proxy and TLS)](https://docs.google.com/document/d/1bDjWf_Y39p9lLMRxUD1a_dg2DwwCYPhk0w2ryQFcnJw/edit?usp=sharing)
-- [Day-4 Exam preparation SP2]()
+- [Day-4 Exam preparation SP2](https://docs.google.com/document/d/1WlkHKlB-TGKQnOpIZavTGQb5lbbjb0y3oh4GUswnO1Q/edit?usp=sharing)
