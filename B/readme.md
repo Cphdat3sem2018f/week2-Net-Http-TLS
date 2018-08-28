@@ -17,9 +17,9 @@ NETWORK
 HTTP
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 - [HTTP Tutorial](http://www.tutorialspoint.com/http/http_tutorial.pdf)
-- [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) Read the intro section, and just skim the loooong list of specific headers
-- [HTTP Request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) Read the detailed link for GET, PUT, POST and DELETE
-- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) Just skim, but make sure you understand the ranges: 1xx, 2xx, 3xx, 4xx and 5 xx
+- [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+- [HTTP Request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [HTTP Cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
 - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 
