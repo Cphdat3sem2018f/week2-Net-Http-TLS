@@ -29,4 +29,4 @@ At first, it could seem like there is an awful lot to read for today, but most o
 - [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/) Much like the privious link, but text instead of video. Pick one of the two)
 
 ### Slides
-TBD
+[TLS and HTTPS](https://docs.google.com/presentation/d/1vTakXqjllfqGfJkoIPjX8nf3TY-SarQoIDuGll0U_mw/edit?usp=sharing)
