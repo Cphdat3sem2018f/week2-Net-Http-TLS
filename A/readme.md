@@ -20,7 +20,7 @@ At first, it could seem like there is an awful lot to read for today, but most o
 - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 
 ### Slides
-TBD
+[HTTP](https://docs.google.com/presentation/d/1iW9RzS_ZKqZKdqYt--rvqaSAuxhaXWPH5o2FasSgeq0/edit?usp=sharing)
 
 # Day-3 Thuersday 30th.
 - [Wikipedia article about Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
